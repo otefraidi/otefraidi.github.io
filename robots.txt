@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://otefraidi.github.io/sitemap.html.gz
+Sitemap: https://otefraidi.github.io/app/sitemap.html.gz
+Sitemap: https://otefraidi.github.io/assets/sitemap.html.gz
+Sitemap: https://otefraidi.github.io/css/sitemap.html.gz
+Sitemap: https://otefraidi.github.io/includes/sitemap.html.gz
+Sitemap: https://otefraidi.github.io/item/sitemap.html.gz
+Sitemap: https://otefraidi.github.io/src/sitemap.html.gz
